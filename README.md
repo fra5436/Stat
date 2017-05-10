@@ -3,7 +3,7 @@
 A repository where i dump a bunch of stat ressources
 
 
-###IINITIATION AUX METHODES STATISTIQUES EN SCIENCES SOCIALES Claude Grasland Université Paris VII / UFR GHSS / 1998-2000 COURS
+### INITIATION AUX METHODES STATISTIQUES EN SCIENCES SOCIALES Claude Grasland Université Paris VII / UFR GHSS / 1998-2000 COURS
 
 [cours] (http://grasland.script.univ-paris-diderot.fr/STAT98/STAT98.htm) paris descartes
 
